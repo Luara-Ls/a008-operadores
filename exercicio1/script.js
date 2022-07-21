@@ -1,5 +1,5 @@
 
-const numeroPar = prompt("Insira aqui um número par")
+const numeroPar = prompt("Digite um número")
 console.log (numeroPar)
 
 console.log(typeof numeroPar)
